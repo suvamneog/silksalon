@@ -1,0 +1,6 @@
+{
+  "name": "Silk Salon",
+  "description": "Premium hair, facial, and hair colour services on GS Road, Guwahati. Timings: Mon-Sun 10 am - 8 pm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
